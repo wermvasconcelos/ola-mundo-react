@@ -9,7 +9,7 @@ export default function Banner() {
                     Olá, Mundo!
                 </h1>
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Token Black, Tech Lider da CCN Certificadora. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
+                    Boas vindas ao meu espaço pessoal! Eu sou Wermenson Vasconcelos, Tech Lider da CCN Certificadora. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
                 </p>
             </div>
 
